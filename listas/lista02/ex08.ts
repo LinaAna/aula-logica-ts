@@ -1,9 +1,9 @@
-let n = Number(prompt("Ditige um número: "));
-if(n === 0){
-    alert(n + "Zero");
-}else if(n % 2 === 0){
-    alert(n +"Par");
+let n3 = Number(prompt("Ditige um número: "));
+if(n3 === 0){
+    alert(n3 + "Zero");
+}else if(n3 % 2 === 0){
+    alert(n3 +"Par");
 }else{
-    alert(n +"Ímpar");
+    alert(n3 +"Ímpar");
 }
 
